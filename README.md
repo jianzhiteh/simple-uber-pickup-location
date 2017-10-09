@@ -1,1 +1,1 @@
-# simple-uber-pickup-location
+# Simple Uber's Pickup Location Chooser
